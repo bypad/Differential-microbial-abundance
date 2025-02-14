@@ -6,4 +6,5 @@ Data:
 - A taxonomy file that allows you to link the ID of each OTU to an actual name: 97_otu_taxonomy.txt
 
 Part 1: Understand how smoking impacts the nose and throat microbiomes. 
+
 Part 2: Continue to work on microbial abundance, but the focus will switch to classification. The overall goal of the analysis is to build simple classifiers to predict whether a given person is a smoker.
